@@ -13,7 +13,7 @@ public class CCuenta {
     private String nombre;
     private String cuenta;
     private double saldo;
-    private double tipoInterés;
+    private double tipoInteres;
 
 
     public CCuenta()
@@ -88,13 +88,13 @@ public class CCuenta {
     }
 
 
-    public double getTipoInterés() {
-        return tipoInterés;
+    public double getTipoInteres() {
+        return tipoInteres;
     }
 
 
-    public void setTipoInterés(double tipoInterés) {
-        this.tipoInterés = tipoInterés;
+    public void setTipoInteres(double tipoInteres) {
+        this.tipoInteres = tipoInteres;
     }
 	public void operativa_cuenta(float cantidad) {
 		// TODO Auto-generated method stub
