@@ -18,8 +18,7 @@ public class CCuenta {
 
     public CCuenta()
     {
-    }
-
+    } 
     public CCuenta(String nom, String cue, double sal, double tipo)
     {
         nombre =nom;
