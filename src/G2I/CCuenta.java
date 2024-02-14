@@ -96,5 +96,9 @@ public class CCuenta {
     public void setTipoInterés(double tipoInterés) {
         this.tipoInterés = tipoInterés;
     }
+	public void operativa_cuenta(float cantidad) {
+		// TODO Auto-generated method stub
+		
+	}
 }
 
